@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lAqNGiLlQG9c6ZztXn5Hatij8af1Jvsioyvv6roEiwZyQpANbIOYIaM+KIobZPaEOMK5hMnYXiSTN+E1SI6AA==",
+  "dgSpecHash": "1JdXdqT2xPdlGo+jYoiTH2o4hjOxcm5WrV8GRJFF97b1iJkKXaLauhpG9/bnXdnaJfQYX0tO4R/JFt9QiAdEvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Documents\\AspnetMVC\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\api_project\\api_project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
